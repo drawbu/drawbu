@@ -5,3 +5,4 @@ I am curently learning :
 - html / css / sass
 - python, 
 - javascript
+- how works git lmao
