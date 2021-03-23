@@ -1,4 +1,4 @@
-**Hi!**
+# Hi!
 I'm drawbu, a french web developer interesed by sooo many things.
 
 I am curently learning :
