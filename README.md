@@ -4,8 +4,8 @@
 ![Website](https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fdrawbu.000webhostapp.com)
 
 # Hi!
-I'm drawbu, a french web developer interesed by a lot things.
-In  my free time I play Minecraft and I watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
+I'm drawbu, a french student developer interesed by a lot things.
+In  my free time I like to code, play Minecraft and watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
 
 ## reposistories
 
