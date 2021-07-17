@@ -10,12 +10,12 @@
 I'm drawbu, a french student developer interesed by a lot things.
 In  my free time I like to code, play Minecraft and watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
 
-## `def reposistories:`
+## `def reposistories(self):`
 
 Go give an eye to my project 'drawbot'. It's a Discord bot connected to Pronote. It will send you messages in your server when you revceive a new homework. I'm passed in Underscore_ thanks to this project!
 
 
-## `def contact:`
+## `def contact(self):`
 
 -   twitter: @drawbu
 -   reddit: u/drawbu
