@@ -24,9 +24,9 @@ Go give an eye to my project 'drawbot'. It's a Discord bot connected to Pronote.
 
 <img src="https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
-![drawbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true" width="45%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="45%" align="right">
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
