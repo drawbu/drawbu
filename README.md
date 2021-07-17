@@ -3,17 +3,31 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/drawbu?style=social)
 ![Website](https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fdrawbu.000webhostapp.com)
 
-# Hi!
+# `class drawbu:`
+
+## `def __init__:`
+
 I'm drawbu, a french student developer interesed by a lot things.
 In  my free time I like to code, play Minecraft and watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
 
-## reposistories
+## `def reposistories:`
 
 Go give an eye to my project 'drawbot'. It's a Discord bot connected to Pronote. It will send you messages in your server when you revceive a new homework. I'm passed in Underscore_ thanks to this project!
 
 
-## contact
+## `def contact:`
 
 -   twitter: @drawbu
 -   reddit: u/drawbu
 -   discord: drawbu#3546
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+![drawbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" align="right">
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+
+
