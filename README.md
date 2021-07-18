@@ -23,10 +23,10 @@ Go give an eye to my project 'drawbot'. It's a Discord bot connected to Pronote.
 
 
 ## `def cards(self):`
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="45%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drawbu&theme=dark" width="45%" align="right">
 
 <img src="https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true" width="45%">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drawbu&layout=compact)
 
 
