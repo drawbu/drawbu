@@ -5,7 +5,7 @@
 
 # `class drawbu:`
 
-## `def __init__:`
+## `def __init__(self):`
 
 I'm drawbu, a french student developer interesed by a lot things.
 In  my free time I like to code, play Minecraft and watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
