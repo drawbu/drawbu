@@ -7,12 +7,14 @@
 
 ## `def __init__(self):`
 
-I'm drawbu, a french student developer interesed by a lot things.
-In  my free time I like to code, play Minecraft and watch series (my top 3: Breaking Bad, The Boys and Stranger Things)
+I'm drawbu, a french student in final year at high school, junior developer interesed by a lot things. I love using python, but I enjoy a lot starting new projects. I recently started intersed myself into React.js.
+In  my free time I like to code, play Minecraft and watch series.
 
 ## `def reposistories(self):`
 
-Go give an eye to my project 'drawbot'. It's a Discord bot connected to Pronote. It will send you messages in your server when you revceive a new homework. I'm passed in Underscore_ thanks to this project!
+Go give an eye to my project [drawbot](https://github.com/drawbu/drawbot). It's a Discord bot connected to Pronote. It will send you messages in your server when you revceive a new homework. I'm passed in the twitch and youtube french show Underscore_ thanks to this project!
+You can also give an eye to [my discord bot](https://github.com/drawbu/discord-bot), it don't really have a real usefulness, but it is a lot of fun doing it, because it's where I learn a lot of new things about python.
+I also have a repo with my [dotfiles](https://github.com/drawbu/dotfiles), my actual [new tab webpage](https://github.com/drawbu/One-page) or a lot of things ! :)
 
 
 ## `def contact(self):`
