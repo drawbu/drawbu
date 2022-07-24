@@ -1,13 +1,13 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/drawbu?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/drawbu?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/drawbu?style=social)
-![Website](https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fdrawbu.000webhostapp.com)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdrawbu.me)
 
 # `class drawbu:`
 
 ## `def __init__(self):`
 
-I'm drawbu, a french student in final year at high school, junior developer interesed by a lot things. I love using python, but I enjoy a lot starting new projects. I recently started intersed myself into React.js.
+I'm drawbu, a french student in first year of college, junior developer interesed by a lot things. I love using python, but I enjoy a lot starting new projects. I recently started intersed myself into Vue.js (I made a little website [drawbu.me](https://drawbu.me)) and Rust.
 In  my free time I like to code, play Minecraft and watch series.
 
 ## `def reposistories(self):`
