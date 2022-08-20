@@ -1,34 +1,23 @@
-![GitHub User's stars](https://img.shields.io/github/stars/drawbu?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/drawbu?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/drawbu?style=social)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdrawbu.me)
-
 # `class drawbu:`
 
 ## `def __init__(self):`
 
-I'm drawbu, a french student in first year of college, junior developer interesed by a lot things. I love using python, but I enjoy a lot starting new projects. I recently started intersed myself into Vue.js (I made a little website [drawbu.me](https://drawbu.me)) and Rust.
-In  my free time I like to code, play Minecraft and watch series.
+Hey everyone! I'm drawbu, a French student in his first year of college, junior developer interested in a lot of things and technologies. I used to be a Python fan, but recently I have been considering seriously the Web development (I really start a ton of new projects, but only a few of them are actually good ones). So, if you want, I've a website, but it basically the same text as here, so it's not fascinating. Anyway, there it is: [drawbu.me](https://drawbu.me). <br/>
+I have a few hobbies: developing useless stuff, playing Minecraft, and watching a lot of series (seriously, please watch Breaking Bad and For All Mankind).
 
 ## `def reposistories(self):`
 
-Go give an eye to my project [drawbot](https://github.com/drawbu/drawbot). It's a Discord bot connected to Pronote. It will send you messages in your server when you revceive a new homework. I'm passed in the twitch and youtube french show Underscore_ thanks to this project!
-You can also give an eye to [my discord bot](https://github.com/drawbu/discord-bot), it don't really have a real usefulness, but it is a lot of fun doing it, because it's where I learn a lot of new things about python.
-I also have a repo with my [dotfiles](https://github.com/drawbu/dotfiles), my actual [new tab webpage](https://github.com/drawbu/One-page) or a lot of things ! :)
+So, I think you're here to see this, but those are my project. There is not much stuff because a lot are in private mode, but still, there is some you can watch: <br/>
+- First, my project number one, the one that put me into programming at first, is this one: its name is [drawbot](https://github.com/drawbu/drawbot), and it's a Discord bot that is connected to Pronote (the software that the software that all our teachers are using here in France to post homework and our grades). Basically, my bot use an API to send messages in your server when you receive a new homework, or you have a new grade. I build it at first for personal use, so I don't have to go manually check if there is something new to do for tomorrow. But, luckily, I was on the French twitch and YouTube show Underscore_ thanks to this project and the project became a little known!
+- My website is also on GitHub [here](https://github.com/drawbu/drawbu.me). It is really basic basic stuff, but still, I need to have some project on public, or it can be empty around here... 
 
 
 ## `def contact(self):`
 
--   twitter: @drawbu
--   reddit: u/drawbu
--   discord: drawbu#3546
+- twitter: @drawbu
+- discord: drawbu#3546
 
 
 ## `def cards(self):`
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drawbu&theme=dark" width="45%" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=drawbu&show_icons=true" width="45%">
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drawbu&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drawbu&layout=compact&theme=onedark)
