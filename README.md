@@ -11,13 +11,16 @@ So, I think you're here to see this, but those are my project. There is not much
 - First, my project number one, the one that put me into programming at first, is this one: its name is [drawbot](https://github.com/drawbu/drawbot), and it's a Discord bot that is connected to Pronote (the software that the software that all our teachers are using here in France to post homework and our grades). Basically, my bot use an API to send messages in your server when you receive a new homework, or you have a new grade. I build it at first for personal use, so I don't have to go manually check if there is something new to do for tomorrow. But, luckily, I was on the French twitch and YouTube show Underscore_ thanks to this project and the project became a little known!
 - My website is also on GitHub [here](https://github.com/drawbu/drawbu.me). It is really basic basic stuff, but still, I need to have some project on public, or it can be empty around here... 
 
+## `def tech_i_use_and_love(self):`
+[![tech i use and love](https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,sass,vite,vue,svg,py,bots,flask,nginx,cmake,git,linux,md,mongodb,mysql,sqlite,nodejs,rust,regex&perline=10)](https://skillicons.dev)
+
+## `def softwares_i_use(self):`
+[![softwares i use](https://skillicons.dev/icons?i=github,idea,vscode,discord,stackoverflow,figma,twitter,ps&perline=10)](https://skillicons.dev)
+
+## `def tech_i_want_to_learn(self):`
+[![tech i want to learn](https://skillicons.dev/icons?i=astro,bash,c,cs,cpp,docker,dotnet,electron,githubactions,graphql,php,java,jest,nestjs,powershell,raspberrypi,workers&perline=10)](https://skillicons.dev)
 
 ## `def contact(self):`
 
 - twitter: @drawbu
 - discord: drawbu#3546
-
-
-## `def cards(self):`
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drawbu&layout=compact&theme=onedark)
