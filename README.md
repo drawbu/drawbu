@@ -12,13 +12,13 @@ So, I think you're here to see this, but those are my project. There is not much
 - My website is also on GitHub [here](https://github.com/drawbu/drawbu.me). It is really basic basic stuff, but still, I need to have some project on public, or it can be empty around here... 
 
 ## `def tech_i_use_and_love(self):`
-[![tech i use and love](https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,sass,vite,vue,svg,py,bots,flask,nginx,cmake,git,linux,md,mongodb,mysql,sqlite,nodejs,rust,regex&perline=10)](https://skillicons.dev)
+[![tech i use and love](https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,sass,vue,svg,py,bots,flask,nginx,cmake,git,linux,md,mongodb,mysql,sqlite,nodejs,rust,regex&perline=10)](https://skillicons.dev)
 
 ## `def softwares_i_use(self):`
 [![softwares i use](https://skillicons.dev/icons?i=github,idea,vscode,discord,stackoverflow,figma,twitter,ps&perline=10)](https://skillicons.dev)
 
 ## `def tech_i_want_to_learn(self):`
-[![tech i want to learn](https://skillicons.dev/icons?i=astro,bash,c,cs,cpp,docker,dotnet,electron,githubactions,graphql,php,java,jest,nestjs,powershell,raspberrypi,workers&perline=10)](https://skillicons.dev)
+[![tech i want to learn](https://skillicons.dev/icons?i=bash,c,cpp,cs,swift,kotlin,go,docker,dotnet,astro,electron,githubactions,graphql,php,java,jest,nestjs,powershell,raspberrypi,workers&perline=10)](https://skillicons.dev)
 
 ## `def contact(self):`
 
