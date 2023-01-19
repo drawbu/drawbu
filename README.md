@@ -2,7 +2,7 @@
 
 ## `def __init__(self):`
 
-Hey everyone! I'm drawbu, a French student in his first year of college at [l'Université de Bordeaux](http://u-bordeaux.fr) in computer sciences, but also a junior developer interested in a lot of things and technologies. I used to be a Python fan, but recently I have been considering seriously the Web development (I really start a ton of new projects, but only a few of them are actually good ones). So, if you want, I've a website, but it basically the same text as here, so it's not fascinating. Anyway, there it is: [drawbu.me](https://drawbu.me). <br/>
+Hey everyone! I'm drawbu, a French student in his first year of college at [l'Université de Bordeaux](http://u-bordeaux.fr) in computer sciences, but also a junior developer interested in a lot of things and technologies. I used to be a Python fan, but recently I have been considering seriously the Web development (I really start a ton of new projects, but only a few of them are actually good ones). So, if you want, I've a website, but it basically the same text as here, so it's not fascinating. Anyway, there it is: [drawbu.me](https://drawbu.me) (the UI is worthless but the challenge of building a website with the Nginx Server blocks was what really is nice about this project, as I can now easilly host more websites on the same server with adiferent domain, back-end, etc...). <br/>
 I have a few hobbies: developing useless stuff, playing Minecraft, and watching a lot of series (seriously, please watch Breaking Bad and For All Mankind).
 
 ## `def reposistories(self):`
