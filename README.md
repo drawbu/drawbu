@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello there.</h1>
+<h1>Hello there</h1>
 </div>
 
 Hey everyone! I'm Clément (alias drawbu), a French student in computer science.
