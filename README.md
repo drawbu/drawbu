@@ -37,6 +37,7 @@ I have a few hobbies: developing useless stuff, playing Minecraft, and watching
 a lot of series (seriously, please watch Breaking Bad, For All Mankind and The
 Boys).
 
+- my school projects: [github.com/drawpitech](https://github.com/drawpitech)
 - my website: [drawbu.dev](https://drawbu.dev)
 - twitter: @drawbu
 - discord: drawbu
